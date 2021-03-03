@@ -1,0 +1,8 @@
+CREATE TABLE Employee (
+	id serial,
+	name VARCHAR,
+	address VARCHAR,
+	status VARCHAR,
+	department VARCHAR,
+	salary NUMERIC
+);
